@@ -1,0 +1,16 @@
+
+# Maven generated files
+target/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
